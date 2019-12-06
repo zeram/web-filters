@@ -1,0 +1,23 @@
+
+# webfilter list
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute: N/A
+# 
+#
+# Changelog:
+# 2019-12-06 First version
+# 
+# License:
+#
+#
+# Contributions by:
+# Zeram
+
+## 20191206
+## https://www.howtogeek.com/298460/disable-wpad-in-windows-to-stay-safe-on-public-wi-fi-networks/
+## https://stackoverflow.com/questions/15029615/how-to-turn-off-disable-web-proxy-auto-discovery-wpad-in-windows-server-2008/25366609#25366609
+## https://null-byte.wonderhowto.com/how-to/disable-wpad-your-pc-so-your-https-traffic-wont-be-vulnerable-latest-ssl-attack-0172499/
+0.0.0.0 wpad wpad.my.home
+:: wpad wpad.my.home
+
