@@ -88,7 +88,7 @@ pihole -w thetvdb.com - metadata for tv series
 pihole -w themoviedb.com - metadata for movies
 ## Sonarr
 pihole -w services.sonarr.tv skyhook.sonarr.tv download.sonarr.tv apt.sonarr.tv forums.sonarr.tv
-Placehold.it (Image placeholders often used during web design. Not sure why this is even blocked in the first place.)
+## Placehold.it (Image placeholders often used during web design. Not sure why this is even blocked in the first place.)
 pihole -w placehold.it placeholdit.imgix.net
 ## Dropbox
 ## As described here 846:
